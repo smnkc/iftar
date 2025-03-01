@@ -1,0 +1,17 @@
+{
+  "name": "İftar Sayacı",
+  "short_name": "İftar Sayacı",
+  "description": "İftar vaktine ne kadar kaldı? Bulunduğunuz konuma göre iftar saatini ve namaz vakitlerini öğrenin.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f6c744",
+  "theme_color": "#f6c744",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
